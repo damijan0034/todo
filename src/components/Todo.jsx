@@ -46,7 +46,7 @@ const Todo = () => {
   }
   return (
     <div
-      className="w-11/12 bg-white place-self-center max-w-md
+      className="w-[80%] bg-white place-self-center max-w-md
         flex flex-col min-h-137.5 rounded-xl p-7 
     "
     >
